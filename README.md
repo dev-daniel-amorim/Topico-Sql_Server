@@ -27,7 +27,8 @@ Me chamo Daniel Amorim, estudante de MBA em engenharia e Data Science, área que
  - Left Join;
  - Hight Join;
  - Full outer Join;
- - Union;
+ - Subqueries;
+ - Union.
 
 [Clique aqui para ver a aula III no Medium!](https://medium.com/@dev.daniel.amorim/sql-do-princ%C3%ADpio-ao-fim-parte-iii-173b491e377d)
 
