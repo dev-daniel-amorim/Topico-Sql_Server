@@ -13,11 +13,12 @@ Me chamo Daniel Amorim, estudante de MBA em engenharia e Data Science, área que
 ## SQL - Aula II
 
  - Aplicando multiplos filtros;
- - Filtros aproximados;
+ - Operadores LIKE;
  - Funções matemáticas;
  - Funções estatísticas;
  - DISTINCT;
- - IN e NOT IN.
+ - IN e NOT IN;
+ - Between.
 
 [Clique aqui para ver a aula II no Medium!](https://medium.com/@dev.daniel.amorim/sql-do-principio-ao-fim-parte-ii-5287b169eb0c)
 
