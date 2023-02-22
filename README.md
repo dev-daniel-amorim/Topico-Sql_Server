@@ -1,6 +1,6 @@
 # SQL Server
 
-Me chamo Daniel Amorim, estudante de MBA em engenharia e Data Science, vou começar dizendo que o foco dos tutoriais é o estudo do SQL voltado para Data Science, e o SQL é uma das principais ferramentas que todo cientista de dados deve saber para responder perguntas de negócios, então compartilharei com vocês meus conhecimentos no Medium e video aulas no Youtube com artigos e tutoriais, uma forma de praticar e dividir o aprendizado.
+Me chamo Daniel Amorim, estudante de MBA em engenharia e Data Science, vou começar dizendo que o foco dos tutoriais é o estudo do SQL voltado para Data Science e o SQL é uma das principais ferramentas que todo cientista de dados deve saber para responder perguntas de negócios, então compartilharei com vocês meus conhecimentos no Medium e video aulas no Youtube com artigos e tutoriais, uma forma de praticar e dividir o aprendizado.
 
 # SQL QUERIES
 ## Aula I 
