@@ -12,8 +12,6 @@ Me chamo Daniel Amorim, estudante de MBA em engenharia e Data Science, vou come√
 [Clique aqui para ver a aula I no Medium.](https://medium.com/@dev.daniel.amorim/sql-do-princ%C3%ADpio-ao-fim-parte-i-ee9ea4b11652)<br>
 [Clique aqui para ver a aula I no Youtube.](https://www.youtube.com/watch?v=2CUFyHaGwx8)
 
-https://www.youtube.com/watch?v=2CUFyHaGwx8
-
 ## Aula II
 
  - Aplicando multiplos filtros;
