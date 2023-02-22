@@ -3,7 +3,7 @@
 Me chamo Daniel Amorim, estudante de MBA em engenharia e Data Science, vou começar dizendo que o foco dos tutoriais é o estudo do SQL voltado para Data Science, e o SQL é uma das principais ferramentas que todo cientista de dados deve saber para responder perguntas de negócios, então compartilharei com vocês meus conhecimentos no Medium e video aulas no Youtube com artigos e tutoriais, uma forma de praticar e dividir o aprendizado.
 
 # SQL QUERIES
-## SQL - Aula I 
+## Aula I 
  
  - Construção de consultas;
  - Ordenação (Order By);
@@ -12,7 +12,9 @@ Me chamo Daniel Amorim, estudante de MBA em engenharia e Data Science, vou come�
 [Clique aqui para ver a aula I no Medium.](https://medium.com/@dev.daniel.amorim/sql-do-princ%C3%ADpio-ao-fim-parte-i-ee9ea4b11652)<br>
 [Clique aqui para ver a aula I no Youtube.](https://www.youtube.com/watch?v=2CUFyHaGwx8)
 
-## SQL - Aula II
+https://www.youtube.com/watch?v=2CUFyHaGwx8
+
+## Aula II
 
  - Aplicando multiplos filtros;
  - Operadores LIKE;
@@ -24,7 +26,7 @@ Me chamo Daniel Amorim, estudante de MBA em engenharia e Data Science, vou come�
 
 [Clique aqui para ver a aula II no Medium!](https://medium.com/@dev.daniel.amorim/sql-do-principio-ao-fim-parte-ii-5287b169eb0c)
 
-## SQL - Aula III
+## Aula III
 
  - Inner Join;
  - Left Join;
