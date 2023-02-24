@@ -23,7 +23,7 @@ Me chamo Daniel Amorim, estudante de MBA em engenharia e Data Science, vou come√
  - Between.
 
 [Clique aqui para ver a aula II no Medium.](https://medium.com/@dev.daniel.amorim/sql-do-principio-ao-fim-parte-ii-5287b169eb0c)<br>
-[Clique aqui para ver a aila II no Youtube.](https://www.youtube.com/watch?v=bUGY4jT3MQc&t=145s)
+[Clique aqui para ver a aula II no Youtube.](https://www.youtube.com/watch?v=bUGY4jT3MQc&t=145s)
 
 ## Aula III
 
@@ -34,7 +34,8 @@ Me chamo Daniel Amorim, estudante de MBA em engenharia e Data Science, vou come√
  - Subqueries;
  - Union.
 
-[Clique aqui para ver a aula III no Medium!](https://medium.com/@dev.daniel.amorim/sql-do-princ%C3%ADpio-ao-fim-parte-iii-173b491e377d)
+[Clique aqui para ver a aula III no Medium!](https://medium.com/@dev.daniel.amorim/sql-do-princ%C3%ADpio-ao-fim-parte-iii-173b491e377d)<br>
+[Clique aqui para ver a aula III no Youtube.](https://www.youtube.com/watch?v=DwDUXJl1DWM)
 
 <br>
 <hr>
