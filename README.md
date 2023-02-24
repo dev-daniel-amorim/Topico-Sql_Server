@@ -28,7 +28,7 @@ Me chamo Daniel Amorim, estudante de MBA em engenharia e Data Science, vou come√
 
  - Inner Join;
  - Left Join;
- - Hight Join;
+ - Right Join;
  - Full outer Join;
  - Subqueries;
  - Union.
