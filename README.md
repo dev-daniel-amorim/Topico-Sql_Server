@@ -1,43 +1,12 @@
 # SQL Server
+- SQL Queries:
+  - [Aula I (Construindo consultas, funções de ordenação e agregação)](https://medium.com/@dev.daniel.amorim/sql-do-princ%C3%ADpio-ao-fim-parte-i-ee9ea4b11652)
+  - [Aula II (Filtros, operadores LIKE, funções matemáticas e estatísticas, DISTINCT, IN, NOT IN e Between)](https://medium.com/@dev.daniel.amorim/sql-do-principio-ao-fim-parte-ii-5287b169eb0c)
+  - [Aula III (Inner join, Left join, Right Join, Full outer Join, subqueries e UNION)](https://medium.com/@dev.daniel.amorim/sql-do-princ%C3%ADpio-ao-fim-parte-iii-173b491e377d)
+- SQL Views
+  - [Como criar, bloquear, restringir views](https://medium.com/@dev.daniel.amorim/sql-views-ac1d5fc62c90)
+- SQL Functions
+  - [Tipos, estrutura, e aplicações das functions SQL](https://medium.com/@dev.daniel.amorim/sql-functions-c8841b80e640)
+- SQL Trigger
+  - [O que são triggers, estrutura e aplicações.](https://medium.com/@dev.daniel.amorim/sql-trigger-f4983bdd5ad6)
 
-Me chamo Daniel Amorim, estudante de MBA em engenharia e Data Science, vou começar dizendo que o foco dos tutoriais é o estudo do SQL voltado para Data Science e o SQL é uma das principais ferramentas que todo cientista de dados deve saber para responder perguntas de negócios, então compartilharei com vocês meus conhecimentos no Medium e video aulas no Youtube com artigos e tutoriais, uma forma de praticar e dividir o aprendizado.
-
-# SQL QUERIES
-## Aula I 
- 
- - Construção de consultas;
- - Ordenação (Order By);
- - Agregaçãp (Group By).
-
-[Clique aqui para ver a aula I no Medium.](https://medium.com/@dev.daniel.amorim/sql-do-princ%C3%ADpio-ao-fim-parte-i-ee9ea4b11652)<br>
-[Clique aqui para ver a aula I no Youtube.](https://www.youtube.com/watch?v=2CUFyHaGwx8)
-
-## Aula II
-
- - Aplicando multiplos filtros;
- - Operadores LIKE;
- - Funções matemáticas;
- - Funções estatísticas;
- - DISTINCT;
- - IN e NOT IN;
- - Between.
-
-[Clique aqui para ver a aula II no Medium.](https://medium.com/@dev.daniel.amorim/sql-do-principio-ao-fim-parte-ii-5287b169eb0c)<br>
-[Clique aqui para ver a aula II no Youtube.](https://www.youtube.com/watch?v=bUGY4jT3MQc&t=145s)
-
-## Aula III
-
- - Inner Join;
- - Left Join;
- - Right Join;
- - Full outer Join;
- - Subqueries;
- - Union.
-
-[Clique aqui para ver a aula III no Medium!](https://medium.com/@dev.daniel.amorim/sql-do-princ%C3%ADpio-ao-fim-parte-iii-173b491e377d)<br>
-[Clique aqui para ver a aula III no Youtube.](https://www.youtube.com/watch?v=DwDUXJl1DWM)
-
-<br>
-<hr>
-
-[<< Voltar para página inicial](https://github.com/dev-daniel-amorim)
