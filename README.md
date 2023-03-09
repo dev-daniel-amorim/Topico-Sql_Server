@@ -1,6 +1,8 @@
 # SQL Server
 Essa material é dedicado ao estudo do SQL, todo conteúdo é voltado para análise e ciência de dados, nele
-encontraremos o essencial que todo estudante das áreas devem saber.
+encontraremos o essencial que todo estudante das áreas citadas devem saber sobre análise usando SQL.
+
+### Tutoriais no Medium:
 
 - SQL Queries:
   - [Aula I (Construindo consultas, funções de ordenação e agregação)](https://medium.com/@dev.daniel.amorim/sql-do-princ%C3%ADpio-ao-fim-parte-i-ee9ea4b11652)
@@ -13,3 +15,6 @@ encontraremos o essencial que todo estudante das áreas devem saber.
 - SQL Trigger
   - [O que são triggers, estrutura e aplicações.](https://medium.com/@dev.daniel.amorim/sql-trigger-f4983bdd5ad6)
 
+### Vídeo aulas no Youtube:
+
+[Clique aqui para acessar minha playlist de SQL](https://www.youtube.com/playlist?list=PLxm8nHbKxiP0RogAxvWM5qxpHGGRqQJdZ)
