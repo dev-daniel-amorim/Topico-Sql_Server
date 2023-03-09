@@ -1,4 +1,7 @@
 # SQL Server
+Essa material é dedicado ao estudo do SQL, todo conteúdo é voltado para análise e ciência de dados, nele
+encontraremos o essencial que todo estudante das áreas devem saber.
+
 - SQL Queries:
   - [Aula I (Construindo consultas, funções de ordenação e agregação)](https://medium.com/@dev.daniel.amorim/sql-do-princ%C3%ADpio-ao-fim-parte-i-ee9ea4b11652)
   - [Aula II (Filtros, operadores LIKE, funções matemáticas e estatísticas, DISTINCT, IN, NOT IN e Between)](https://medium.com/@dev.daniel.amorim/sql-do-principio-ao-fim-parte-ii-5287b169eb0c)
