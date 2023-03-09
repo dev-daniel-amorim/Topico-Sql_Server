@@ -18,3 +18,8 @@ encontraremos o essencial que todo estudante das áreas citadas devem saber sobr
 ### Vídeo aulas no Youtube:
 
 [Playlist de SQL: Clique e veja todas vídeo aulas sobre SQL](https://www.youtube.com/playlist?list=PLxm8nHbKxiP0RogAxvWM5qxpHGGRqQJdZ)
+
+<br>
+<hr>
+
+[<< Voltar para página inicial](https://github.com/dev-daniel-amorim)
