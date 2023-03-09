@@ -15,6 +15,9 @@ encontraremos o essencial que todo estudante das áreas citadas devem saber sobr
 - SQL Trigger:
   - [O que são triggers, estrutura e aplicações.](https://medium.com/@dev.daniel.amorim/sql-trigger-f4983bdd5ad6)
 
+### Conteúdos SQL extras:
+[Conectando SQL ao Jupyter Notebook usando biblioteca PyODBC](https://medium.com/@dev.daniel.amorim/jupyter-notebook-sql-server-1af8eb22cf02)
+
 ### Vídeo aulas no Youtube:
 
 [Playlist de SQL: Clique e veja todas vídeo aulas sobre SQL](https://www.youtube.com/playlist?list=PLxm8nHbKxiP0RogAxvWM5qxpHGGRqQJdZ)
