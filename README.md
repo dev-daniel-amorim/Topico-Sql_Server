@@ -15,7 +15,7 @@ encontraremos o essencial que todo estudante das áreas citadas devem saber sobr
 - SQL Trigger:
   - [O que são triggers, estrutura e aplicações.](https://medium.com/@dev.daniel.amorim/sql-trigger-f4983bdd5ad6)
 - SQL Procedures:
-  - [Como criar e como chamar functions em procedures](https://youtu.be/lt9b4oOzo3g)
+  - [Como criar procedures e como chamar functions dentro delas](https://medium.com/@dev.daniel.amorim/sql-procedures-1b398b36894c)
 
 ## Conteúdos SQL extras:
 [Conectando SQL ao Jupyter Notebook usando biblioteca PyODBC](https://github.com/dev-daniel-amorim/PyODBC-Integracao_python_SQL-Server/blob/main/README.md)
