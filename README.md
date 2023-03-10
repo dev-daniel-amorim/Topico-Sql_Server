@@ -4,7 +4,7 @@ encontraremos o essencial desde o básico ao avançado que todo estudante das á
 
 ### Tutoriais no Medium:
 
- | Tutorial                               | Links |
+ | Tutorial                               | Descrição/Link |
  |                    ---                 |  ---  |
  | Chaves primárias X chaves estrangeiras | [Importância das chaves em tabelas relacionais.](https://medium.com/@dev.daniel.amorim/sql-chave-prim%C3%A1ria-x-chave-estrangeira-e925a8799f8f)|
  | SQL Queries | [Aula I (Construindo consultas, funções de ordenação e agregação).](https://medium.com/@dev.daniel.amorim/sql-do-princ%C3%ADpio-ao-fim-parte-i-ee9ea4b11652) <br> [Aula II (Filtros, funções matemáticas e estatísticas, LIKE, DISTINCT, IN, NOT IN e Between).](https://medium.com/@dev.daniel.amorim/sql-do-principio-ao-fim-parte-ii-5287b169eb0c) <BR> [Aula III (Inner join, Left join, Right Join, Full outer Join, subqueries e UNION).](https://medium.com/@dev.daniel.amorim/sql-do-princ%C3%ADpio-ao-fim-parte-iii-173b491e377d) |
@@ -15,7 +15,7 @@ encontraremos o essencial desde o básico ao avançado que todo estudante das á
 
 ### Conteúdos SQL extras:
   
- | Tutorial                         | Links |
+ | Tutorial                         | Descrição/Link |
  |          ---                     | ---   |
  | SQL + PyODBC + Jupyter notebook        | [Conectando SQL ao Jupyter Notebook usando biblioteca PyODBC.](https://github.com/dev-daniel-amorim/PyODBC-Integracao_python_SQL-Server/blob/main/README.md) |
 
