@@ -2,7 +2,7 @@
 Nesse repositório você encontrará um material que preparei sobre SQL, todo conteúdo é voltado para análise e ciência de dados, nele
 encontraremos o essencial desde o básico ao avançado que todo estudante das áreas citadas devem saber sobre análise usando linguagem SQL.
 
-## Tutoriais no Medium:
+### Tutoriais no Medium:
 
  | Tutorial                               | Links |
  |                    ---                 |  ---  |
@@ -13,7 +13,7 @@ encontraremos o essencial desde o básico ao avançado que todo estudante das á
  | SQL Trigger | [O que são triggers, estrutura e aplicações.](https://medium.com/@dev.daniel.amorim/sql-trigger-f4983bdd5ad6) |
  | SQL Procedures | [Como criar procedures e como chamar functions dentro delas.](https://medium.com/@dev.daniel.amorim/sql-procedures-1b398b36894c) |
 
-## Conteúdos SQL extras:
+### Conteúdos SQL extras:
   
  | Tutorial                         | Links |
  |          ---                     | ---   |
