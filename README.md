@@ -13,6 +13,7 @@ encontraremos o essencial desde o básico ao avançado que todo estudante das á
  | SQL Trigger | [O que são triggers, estrutura e aplicações.](https://medium.com/@dev.daniel.amorim/sql-trigger-f4983bdd5ad6) |
  | SQL Procedures | [Como criar procedures e como chamar functions dentro delas.](https://medium.com/@dev.daniel.amorim/sql-procedures-1b398b36894c) |
  | SQL Estrutura de dados | [O que são árvores e como chegamos aos seus índices.](https://medium.com/@dev.daniel.amorim/sql-%C3%ADndices-dd0b700d13a3) |
+ | SQL Índices | [Heap, índices clustered e nonclustered.](https://medium.com/@dev.daniel.amorim/sql-%C3%ADndices-d82220f01176) |
 
 ### Conteúdos SQL extras:
   
