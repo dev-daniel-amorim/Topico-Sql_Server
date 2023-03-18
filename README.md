@@ -1,6 +1,6 @@
 # SQL Server
-Nesse repositório você encontrará um material que preparei sobre SQL, todo conteúdo é voltado para análise e ciência de dados, nele
-encontraremos o essencial desde o básico ao avançado que todo estudante das áreas citadas devem saber sobre análise usando linguagem SQL.
+Nesse repositório você encontrará um material que preparei sobre SQL, todo estudo é voltado para análise e ciência de dados com SQL, nele
+encontraremos o essencial desde o básico ao avançado.
 
 ### Tutoriais no Medium:
 
