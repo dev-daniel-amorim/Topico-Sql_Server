@@ -14,9 +14,11 @@ Nesse repositório você encontrará um material que preparei sobre SQL, todo es
  
 ### Conteúdos SQL extras:
   
- | Tutorial                         | Descrição/Link |
+| Tutoriais/Título | Descrição/Link Medium | Links/Vídeos YouTube | Links/Códigos fonte |
  |          ---                     | ---   |
- | SQL + PyODBC + Jupyter notebook        | [Conectando SQL ao Jupyter Notebook usando biblioteca PyODBC.](https://github.com/dev-daniel-amorim/PyODBC-Integracao_python_SQL-Server/blob/main/README.md) |
+ | SQL + PyODBC + Jupyter notebook        | [Conectando SQL ao Jupyter Notebook usando biblioteca PyODBC.](https://github.com/dev-daniel-amorim/PyODBC-Integracao_python_SQL-Server/blob/main/README.md) | [Vídeo aula](https://youtu.be/iW4UDgHoNtc) | [Código da aula](https://github.com/dev-daniel-amorim/PyODBC-Integracao_python_SQL-Server/blob/main/SQL%20%2B%20Pyodbc%20%2B%20Jupyter.ipynb) |
+
+
 
 
 <br>
