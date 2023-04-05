@@ -4,10 +4,10 @@ encontraremos o essencial desde o básico ao avançado.
 
 ### Tutoriais no Medium:
 
- | Tutorial                               | Descrição/Link |
- |                    ---                 |  ---  |
- | Chaves primárias X chaves estrangeiras | [Importância das chaves em tabelas relacionais.](https://medium.com/@dev.daniel.amorim/sql-chave-prim%C3%A1ria-x-chave-estrangeira-e925a8799f8f)|
- | SQL Queries | [Aula I (Construindo consultas, funções de ordenação e agregação).](https://medium.com/@dev.daniel.amorim/sql-do-princ%C3%ADpio-ao-fim-parte-i-ee9ea4b11652) <br> [Aula II (Filtros, funções matemáticas e estatísticas, LIKE, DISTINCT, IN, NOT IN e Between).](https://medium.com/@dev.daniel.amorim/sql-do-principio-ao-fim-parte-ii-5287b169eb0c) <BR> [Aula III (Inner join, Left join, Right Join, Full outer Join, subqueries e UNION).](https://medium.com/@dev.daniel.amorim/sql-do-princ%C3%ADpio-ao-fim-parte-iii-173b491e377d) |
+ | Tutoriais/Título | Descrição/Link Medium | Links/Vídeos YouTube |
+ | --- | --- | --- |
+ | Chaves primárias X chaves estrangeiras | [Importância das chaves em tabelas relacionais.](https://medium.com/@dev.daniel.amorim/sql-chave-prim%C3%A1ria-x-chave-estrangeira-e925a8799f8f)| --- |
+ | SQL Queries | [Aula I (Construindo consultas, funções de ordenação e agregação).](https://medium.com/@dev.daniel.amorim/sql-do-princ%C3%ADpio-ao-fim-parte-i-ee9ea4b11652) <br> [Aula II (Filtros, funções matemáticas e estatísticas, LIKE, DISTINCT, IN, NOT IN e Between).](https://medium.com/@dev.daniel.amorim/sql-do-principio-ao-fim-parte-ii-5287b169eb0c) <BR> [Aula III (Inner join, Left join, Right Join, Full outer Join, subqueries e UNION).](https://medium.com/@dev.daniel.amorim/sql-do-princ%C3%ADpio-ao-fim-parte-iii-173b491e377d) | [Vídeo aula I](https://youtu.be/2CUFyHaGwx8) <br> [Vídeo aula II](https://youtu.be/bUGY4jT3MQc) <br> [Vídeo aula III](https://youtu.be/DwDUXJl1DWM) |
  | SQL Views | [Como criar, bloquear, restringir views.](https://medium.com/@dev.daniel.amorim/sql-views-ac1d5fc62c90) |
  | SQL Functions | [Tipos, estrutura, e aplicações das functions SQL.](https://medium.com/@dev.daniel.amorim/sql-functions-c8841b80e640) |
  | SQL Trigger | [O que são triggers, estrutura e aplicações.](https://medium.com/@dev.daniel.amorim/sql-trigger-f4983bdd5ad6) |
