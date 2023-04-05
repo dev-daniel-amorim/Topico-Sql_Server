@@ -1,8 +1,5 @@
 # SQL Server
-Nesse repositório você encontrará um material que preparei sobre SQL, todo estudo é voltado para análise e ciência de dados com SQL, nele
-encontraremos o essencial desde o básico ao avançado.
-
-### Tutoriais no Medium:
+Nesse repositório você encontrará um material que preparei sobre SQL, todo estudo compartilhado aqui é voltado para área de análise e ciência de dados com linguagem SQL.
 
  | Tutoriais/Título | Descrição/Link Medium | Links/Vídeos YouTube |
  | --- | --- | --- |
@@ -21,9 +18,6 @@ encontraremos o essencial desde o básico ao avançado.
  |          ---                     | ---   |
  | SQL + PyODBC + Jupyter notebook        | [Conectando SQL ao Jupyter Notebook usando biblioteca PyODBC.](https://github.com/dev-daniel-amorim/PyODBC-Integracao_python_SQL-Server/blob/main/README.md) |
 
-## Vídeo aulas no Youtube:
-
-[Playlist de SQL: Clique e veja todas vídeo aulas sobre SQL.](https://www.youtube.com/playlist?list=PLxm8nHbKxiP0RogAxvWM5qxpHGGRqQJdZ)
 
 <br>
 <hr>
