@@ -16,7 +16,7 @@ Nesse repositório você encontrará um material que preparei sobre SQL, todo es
   
 | Tutoriais/Título | Descrição/Link Medium | Links/Vídeos YouTube | Links/Códigos fonte |
 | --- | --- | --- | --- |
-| SQL + PyODBC + Jupyter notebook        | [Conectando SQL ao Jupyter Notebook usando biblioteca PyODBC.](https://github.com/dev-daniel-amorim/PyODBC-Integracao_python_SQL-Server/blob/main/README.md) | [Vídeo aula](https://youtu.be/iW4UDgHoNtc) | [Código da aula](https://github.com/dev-daniel-amorim/PyODBC-Integracao_python_SQL-Server/blob/main/SQL%20%2B%20Pyodbc%20%2B%20Jupyter.ipynb) |
+| SQL + PyODBC + Jupyter notebook        | [Conectando SQL ao Jupyter Notebook usando biblioteca PyODBC.](https://medium.com/@dev.daniel.amorim/jupyter-notebook-sql-server-1af8eb22cf02) | [Vídeo aula](https://youtu.be/iW4UDgHoNtc) | [Código da aula](https://github.com/dev-daniel-amorim/PyODBC-Integracao_python_SQL-Server/blob/main/SQL%20%2B%20Pyodbc%20%2B%20Jupyter.ipynb) |
 
 
 
