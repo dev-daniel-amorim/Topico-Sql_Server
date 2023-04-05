@@ -8,9 +8,9 @@ Nesse repositório você encontrará um material que preparei sobre SQL, todo es
  | SQL Views | [Como criar, bloquear, restringir views.](https://medium.com/@dev.daniel.amorim/sql-views-ac1d5fc62c90) | [Vídeo aula]( https://youtu.be/G7-1gFbZIwA) |
  | SQL Functions | [Tipos, estrutura, e aplicações das functions SQL.](https://medium.com/@dev.daniel.amorim/sql-functions-c8841b80e640) | [Vídeo aula](https://youtu.be/yTD7PokGlFc) |
  | SQL Trigger | [O que são triggers, estrutura e aplicações.](https://medium.com/@dev.daniel.amorim/sql-trigger-f4983bdd5ad6) | [Vídeo aula](https://youtu.be/Z6DfOrhuKKw) |
- | SQL Procedures | [Como criar procedures e como chamar functions dentro delas.](https://medium.com/@dev.daniel.amorim/sql-procedures-1b398b36894c) | [Vídeo aula]() |
- | SQL Estrutura de dados | [O que são árvores e como chegamos aos seus índices.](https://medium.com/@dev.daniel.amorim/sql-%C3%ADndices-dd0b700d13a3) | [Vídeo aula]() |
- | SQL Índices | [Heap, índices clustered e nonclustered.](https://medium.com/@dev.daniel.amorim/sql-%C3%ADndices-d82220f01176) | [Vídeo aula]() |
+ | SQL Procedures | [Como criar procedures e como chamar functions dentro delas.](https://medium.com/@dev.daniel.amorim/sql-procedures-1b398b36894c) | [Vídeo aula](https://youtu.be/lt9b4oOzo3g) |
+ | SQL Estrutura de dados | [O que são árvores e como chegamos aos seus índices.](https://medium.com/@dev.daniel.amorim/sql-%C3%ADndices-dd0b700d13a3) | [Vídeo aula](https://youtu.be/qq1nxj_eGQk) |
+ | SQL Índices | [Heap, índices clustered e nonclustered.](https://medium.com/@dev.daniel.amorim/sql-%C3%ADndices-d82220f01176) | [Vídeo aula](https://youtu.be/qWxnztiT3s4) |
  
 ### Conteúdos SQL extras:
   
