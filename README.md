@@ -1,4 +1,4 @@
-# SQL Server
+# SQL Language
 Nesse repositório você encontrará um material que preparei sobre SQL, todo estudo compartilhado aqui é voltado para área de análise e ciência de dados com linguagem SQL.
 
  | Tutoriais/Título | Descrição/Link Medium | Links/Vídeos YouTube |
